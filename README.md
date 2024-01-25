@@ -1,0 +1,2 @@
+# C Testing Grounds
+This repository holds the various small programs I make in C to challenge myself and refresh my memory. Programs may or may not be related to each other, and should not be seen as representative of any final projects.
